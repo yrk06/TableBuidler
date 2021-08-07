@@ -1,0 +1,3 @@
+Name, required, type, default
+-i, no, Path, "./in.csv"
+-o, no, Path, "./out.txt"
