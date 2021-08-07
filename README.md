@@ -1,4 +1,4 @@
-# TableBuidler
+# TableBuilder
 CLI application for building tables from CSV documents
 
 ## Usage
